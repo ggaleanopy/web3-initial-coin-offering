@@ -372,7 +372,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>WCBCoin</title>
+        <title>World Cup Balls Token - ICO</title>
         <meta name="description" content="ICO-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
